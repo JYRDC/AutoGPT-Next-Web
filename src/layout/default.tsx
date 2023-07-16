@@ -34,6 +34,7 @@ const DefaultLayout = (props: LayoutProps) => {
           content="sG4QDkC8g2oxKSopgJdIe2hQ_SaJDaEaBjwCXZNkNWA"
         />
         <link rel="icon" href="/favicon.ico" />
+        <script async src="https://umamiss.jyai.me/script.js" data-website-id="84318d74-4c9f-488b-8652-1cd25d53c65a"></script>
       </Head>
       <DottedGridBackground
         className={clsx("min-w-screen min-h-screen", props.className)}
